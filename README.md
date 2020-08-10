@@ -54,3 +54,4 @@ will be given into the resources required to tackle the stock price forecasting 
 project complete with expected outcomes. Solving this problem has motivation not just in the financial sense but also in the
 academic sphere where it has been debated since the emergence of the markets themselves.
 
+
