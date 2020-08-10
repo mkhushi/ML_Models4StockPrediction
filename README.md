@@ -33,7 +33,7 @@ Data factory:
 These files are used to configure dependent data for the experiments
 
 
-##Abstract:##
+## Abstract:
 People have always tried to forecast future asset prices to make gains. The rise of modern stock markets, with large
 data gathering capabilities, has opened a range of theories to help an investor forecast future prices. These range from
 fundamental analysis in which one values a security according to its underlying value to technical analysis through which the
