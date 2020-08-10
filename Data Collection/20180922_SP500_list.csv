@@ -1,0 +1,506 @@
+symbol,name,index_weight
+A,Agilent Technologies,0.10%
+AAL,American Airlines Group,0.10%
+AAP,Advance Auto Parts,0.00%
+AAPL,Apple,3.60%
+ABBV,AbbVie,0.60%
+ABC,AmerisourceBergen,0.10%
+ABMD,Abiomed,0.10%
+ABT,Abbott Laboratories,0.40%
+ACN,Accenture,0.40%
+ADBE,Adobe Systems,0.50%
+ADI,Analog Devices,0.10%
+ADM,Archer-Daniels Midland,0.10%
+ADP,Automatic Data Processing,0.20%
+ADS,Alliance Data Systems,0.00%
+ADSK,Autodesk,0.10%
+AEE,Ameren,0.10%
+AEP,American Electric Power,0.10%
+AES,AES,0.00%
+AET,Aetna,0.20%
+AFL,Aflac,0.10%
+AGN,Allergan,0.20%
+AIG,American International Gr,0.20%
+AIV,Apartment Inv & Mgmt,0.00%
+AIZ,Assurant,0.00%
+AJG,Arthur J. Gallagher,0.00%
+AKAM,Akamai Technologies,0.10%
+ALB,Albemarle,0.00%
+ALGN,Align Technology,0.10%
+ALK,Alaska Air Group,0.00%
+ALL,Allstate,0.10%
+ALLE,Allegion,0.00%
+ALXN,Alexion Pharmaceuticals,0.10%
+AMAT,Applied Materials,0.20%
+AMD,Advanced Micro Devices,0.10%
+AME,AMETEK,0.10%
+AMG,Affiliated Managers Group,0.00%
+AMGN,Amgen,0.50%
+AMP,Ameriprise Financial,0.10%
+AMT,American Tower,0.20%
+AMZN,Amazon.com,3.20%
+ANDV,Andeavor,0.10%
+ANSS,Ansys,0.10%
+ANTM,Anthem,0.20%
+AON,Aon,0.10%
+AOS,A.O. Smith,0.00%
+APA,Apache,0.10%
+APC,Anadarko Petroleum,0.10%
+APD,Air Products & Chemicals,0.10%
+APH,Amphenol,0.10%
+APTV,Aptiv,0.10%
+ARE,Alexandria Real Estate,0.10%
+ARNC,Arconic,0.00%
+ATVI,Activision Blizzard,0.20%
+AVB,AvalonBay Communities,0.10%
+AVGO,Broadcom,0.40%
+AVY,Avery Dennison,0.00%
+AWK,American Water Works Co,0.10%
+AXP,American Express,0.30%
+AYI,Acuity Brands,0.00%
+AZO,AutoZone,0.10%
+BA,Boeing,0.80%
+BAC,Bank of America,1.10%
+BAX,Baxter International,0.20%
+BBT,BB&T,0.20%
+BBY,Best Buy Co,0.10%
+BDX,"Becton, Dickinson and Co",0.20%
+BEN,Franklin Resources,0.10%
+BF.B,Brown-Forman,0.10%
+BHF,Brighthouse Financial,0.00%
+BHGE,"Baker Hughes, a GE",0.10%
+BIIB,Biogen,0.20%
+BK,Bank of New York Mellon,0.20%
+BKNG,Booking Holdings,0.40%
+BLK,BlackRock,0.30%
+BLL,Ball,0.00%
+BMY,Bristol-Myers Squibb,0.30%
+BRK.B,Berkshire Hathaway,1.80%
+BSX,Boston Scientific,0.20%
+BWA,BorgWarner,0.00%
+BXP,Boston Properties,0.10%
+C,Citigroup,0.70%
+CA,CA,0.10%
+CAG,Conagra Brands,0.10%
+CAH,Cardinal Health,0.10%
+CAT,Caterpillar,0.30%
+CB,Chubb,0.20%
+CBOE,Cboe Global Markets,0.00%
+CBRE,CBRE Group,0.10%
+CBS,CBS,0.10%
+CCI,Crown Castle Intl,0.20%
+CCL,Carnival,0.20%
+CDNS,Cadence Design Systems,0.00%
+CELG,Celgene,0.20%
+CERN,Cerner,0.10%
+CF,CF Industries Holdings,0.00%
+CFG,Citizens Financial Group,0.10%
+CHD,Church & Dwight Co,0.00%
+CHRW,C.H. Robinson Worldwide,0.00%
+CHTR,Charter Communications,0.30%
+CI,Cigna,0.20%
+CINF,Cincinnati Financial,0.00%
+CL,Colgate-Palmolive,0.20%
+CLX,Clorox,0.10%
+CMA,Comerica,0.10%
+CMCSA,Comcast,0.60%
+CME,CME Group,0.20%
+CMG,Chipotle Mexican Grill,0.00%
+CMI,Cummins,0.10%
+CMS,CMS Energy,0.00%
+CNC,Centene,0.10%
+CNP,CenterPoint Energy,0.00%
+COF,Capital One Financial,0.20%
+COG,Cabot Oil & Gas,0.00%
+COL,Rockwell Collins,0.10%
+COO,The Cooper Companies,0.00%
+COP,ConocoPhillips,0.30%
+COST,Costco Wholesale,0.30%
+COTY,Coty,0.00%
+CPB,Campbell Soup,0.00%
+CRM,Salesforce.com,0.40%
+CSCO,Cisco Systems,0.80%
+CSX,CSX,0.20%
+CTAS,Cintas,0.10%
+CTL,CenturyLink,0.10%
+CTSH,Cognizant Tech Solns,0.20%
+CTXS,Citrix Systems,0.10%
+CVS,CVS Health,0.30%
+CVX,Chevron,0.90%
+CXO,Concho Resources,0.10%
+D,Dominion Energy,0.20%
+DAL,Delta Air Lines,0.10%
+DE,Deere,0.20%
+DFS,Discover Financial,0.10%
+DG,Dollar General,0.10%
+DGX,Quest Diagnostics,0.10%
+DHI,D.R. Horton,0.10%
+DHR,Danaher,0.30%
+DIS,Walt Disney,0.60%
+DISCA,Discovery,0.10%
+DISCK,Discovery,0.10%
+DISH,DISH Network,0.10%
+DLR,Digital Realty Trust,0.10%
+DLTR,Dollar Tree Stores,0.10%
+DOV,Dover,0.00%
+DPS,Dr Pepper Snapple Group,0.10%
+DRE,Duke Realty,0.00%
+DRI,Darden Restaurants,0.00%
+DTE,DTE Energy,0.10%
+DUK,Duke Energy,0.20%
+DVA,DaVita,0.00%
+DVN,Devon Energy,0.10%
+DWDP,DowDuPont,0.60%
+DXC,DXC Technology,0.10%
+EA,Electronic Arts,0.20%
+EBAY,eBay,0.10%
+ECL,Ecolab,0.20%
+ED,Consolidated Edison,0.10%
+EFX,Equifax,0.10%
+EIX,Edison International,0.10%
+EL,The Estee Lauder,0.20%
+EMN,Eastman Chemical,0.10%
+EMR,Emerson Electric,0.20%
+EOG,EOG Resources,0.30%
+EQIX,Equinix,0.10%
+EQR,Equity Residential,0.10%
+EQT,EQT,0.10%
+ES,Eversource Energy,0.10%
+ESRX,Express Scripts Holding,0.20%
+ESS,Essex Property Trust,0.10%
+ETFC,E*TRADE Financial,0.10%
+ETN,Eaton,0.10%
+ETR,Entergy,0.10%
+EVHC,Envision Healthcare,0.00%
+EVRG,Evergy,0.00%
+EW,Edwards Lifesciences,0.10%
+EXC,Exelon,0.20%
+EXPD,Expeditors International,0.10%
+EXPE,Expedia Group,0.10%
+EXR,Extra Space Storage,0.00%
+F,Ford Motor,0.20%
+FAST,Fastenal,0.10%
+FB,Facebook,2.20%
+FBHS,Fortune Brands Home,0.00%
+FCX,Freeport-McMoRan,0.10%
+FDX,FedEx,0.30%
+FE,FirstEnergy,0.10%
+FFIV,F5 Networks,0.00%
+FIS,Fidelity National Info,0.10%
+FISV,Fiserv,0.10%
+FITB,Fifth Third Bancorp,0.10%
+FL,Foot Locker,0.00%
+FLIR,FLIR Systems,0.00%
+FLR,Fluor,0.00%
+FLS,Flowserve,0.00%
+FMC,FMC,0.00%
+FOX,Twenty-First Century Fox,0.30%
+FOXA,Twenty-First Century Fox,0.30%
+FRT,Federal Realty Investment,0.00%
+FTI,TechnipFMC,0.10%
+FTV,Fortive,0.10%
+GD,General Dynamics,0.20%
+GE,General Electric,0.40%
+GGP,GGP,0.10%
+GILD,Gilead Sciences,0.40%
+GIS,General Mills,0.10%
+GLW,Corning,0.10%
+GM,General Motors,0.20%
+GOOG,Alphabet,3.10%
+GOOGL,Alphabet,3.10%
+GPC,Genuine Parts,0.10%
+GPN,Global Payments,0.10%
+GPS,Gap,0.00%
+GRMN,Garmin,0.00%
+GS,Goldman Sachs Group,0.30%
+GT,Goodyear Tire & Rubber,0.00%
+GWW,W.W. Grainger,0.10%
+HAL,Halliburton,0.20%
+HAS,Hasbro,0.00%
+HBAN,Huntington Bancshares,0.10%
+HBI,Hanesbrands,0.00%
+HCA,HCA Healthcare,0.10%
+HCP,HCP,0.00%
+HD,Home Depot,0.90%
+HES,Hess,0.10%
+HIG,Hartford Financial,0.10%
+HII,Huntington Ingalls Indus,0.00%
+HLT,Hilton Worldwide Holdings,0.10%
+HOG,Harley-Davidson,0.00%
+HOLX,Hologic,0.00%
+HON,Honeywell International,0.40%
+HP,Helmerich & Payne,0.00%
+HPE,Hewlett Packard Enterprise,0.10%
+HPQ,HP,0.10%
+HRB,H&R Block,0.00%
+HRL,Hormel Foods,0.10%
+HRS,Harris,0.10%
+HSIC,Henry Schein,0.00%
+HST,Host Hotels & Resorts,0.10%
+HSY,The Hershey,0.10%
+HUM,Humana,0.20%
+IBM,IBM,0.50%
+ICE,Intercontinental Exchange,0.20%
+IDXX,IDEXX Laboratories,0.10%
+IFF,International Flavors,0.00%
+ILMN,Illumina,0.20%
+INCY,Incyte,0.10%
+INFO,IHS Markit,0.10%
+INTC,Intel,1.00%
+INTU,Intuit,0.20%
+IP,International Paper,0.10%
+IPG,The Interpublic Group,0.00%
+IPGP,IPG Photonics,0.00%
+IQV,IQVIA Holdings,0.10%
+IR,Ingersoll-Rand,0.10%
+IRM,Iron Mountain,0.00%
+ISRG,Intuitive Surgical,0.20%
+IT,Gartner,0.00%
+ITW,Illinois Tool Works,0.20%
+IVZ,Invesco,0.00%
+JBHT,JB Hunt Transport,0.10%
+JCI,Johnson Controls,0.10%
+JEC,Jacobs Engineering Group,0.00%
+JEF,Jefferies Financial Group,0.00%
+JNJ,Johnson & Johnson,1.30%
+JNPR,Juniper Networks,0.00%
+JPM,JPMorgan Chase,1.40%
+JWN,Nordstrom,0.00%
+K,Kellogg,0.10%
+KEY,KeyCorp,0.10%
+KHC,Kraft Heinz,0.30%
+KIM,Kimco Realty,0.00%
+KLAC,KLA-Tencor,0.10%
+KMB,Kimberly-Clark,0.10%
+KMI,Kinder Morgan,0.10%
+KMX,CarMax,0.00%
+KO,Coca-Cola,0.70%
+KORS,Michael Kors Holdings,0.00%
+KR,Kroger,0.10%
+KSS,Kohl's,0.00%
+KSU,Kansas City Southern,0.00%
+L,Loews,0.10%
+LB,L Brands,0.00%
+LEG,Leggett & Platt,0.00%
+LEN,Lennar,0.10%
+LH,Laboratory Corp,0.10%
+LKQ,LKQ,0.00%
+LLL,L3 Technologies,0.10%
+LLY,Eli Lilly,0.40%
+LMT,Lockheed Martin,0.30%
+LNC,Lincoln National,0.10%
+LNT,Alliant Energy,0.00%
+LOW,Lowe's Companies,0.30%
+LRCX,Lam Research,0.10%
+LUV,Southwest Airlines,0.10%
+LYB,LyondellBasell Industries,0.20%
+M,Macy's,0.00%
+MA,Mastercard,0.80%
+MAA,Mid-America Apartment,0.00%
+MAC,Macerich,0.00%
+MAR,Marriott International,0.20%
+MAS,Masco,0.00%
+MAT,Mattel,0.00%
+MCD,McDonald's,0.50%
+MCHP,Microchip Technology,0.10%
+MCK,McKesson,0.10%
+MCO,Moody's,0.10%
+MDLZ,Mondelez International,0.20%
+MDT,Medtronic,0.50%
+MET,MetLife,0.20%
+MGM,MGM Resorts International,0.10%
+MHK,Mohawk Industries,0.10%
+MKC,McCormick & Co,0.10%
+MLM,Martin Marietta Materials,0.10%
+MMC,Marsh & McLennan,0.20%
+MMM,3M,0.50%
+MNST,Monster Beverage,0.10%
+MO,Altria Group,0.40%
+MOS,Mosaic,0.00%
+MPC,Marathon Petroleum,0.10%
+MRK,Merck & Co,0.60%
+MRO,Marathon Oil,0.10%
+MS,Morgan Stanley,0.30%
+MSCI,MSCI,0.10%
+MSFT,Microsoft,3.00%
+MSI,Motorola Solutions,0.10%
+MTB,M&T Bank,0.10%
+MTD,Mettler-Toledo Intl,0.10%
+MU,Micron Technology,0.30%
+MYL,Mylan,0.10%
+NBL,Noble Energy,0.10%
+NCLH,Norwegian Cruise Line,0.00%
+NDAQ,Nasdaq,0.10%
+NEE,NextEra Energy,0.30%
+NEM,Newmont Mining,0.10%
+NFLX,Netflix,0.70%
+NFX,Newfield Exploration,0.00%
+NI,NiSource,0.00%
+NKE,Nike,0.50%
+NKTR,Nektar Therapeutics,0.00%
+NLSN,Nielsen Holdings,0.00%
+NOC,Northrop Grumman,0.20%
+NOV,National Oilwell Varco,0.10%
+NRG,NRG Energy,0.00%
+NSC,Norfolk Southern,0.20%
+NTAP,NetApp,0.10%
+NTRS,Northern Trust,0.10%
+NUE,Nucor,0.10%
+NVDA,NVIDIA,0.60%
+NWL,Newell Brands,0.00%
+NWS,News,0.00%
+NWSA,News,0.00%
+O,Realty Income,0.10%
+OKE,ONEOK,0.10%
+OMC,Omnicom Group,0.10%
+ORCL,Oracle,0.70%
+ORLY,O'Reilly Automotive,0.10%
+OXY,Occidental Petroleum,0.20%
+PAYX,Paychex,0.10%
+PBCT,People's United,0.00%
+PCAR,PACCAR,0.10%
+PCG,PG&E,0.10%
+PEG,Public Service Enterprise,0.10%
+PEP,PepsiCo,0.60%
+PFE,Pfizer,0.80%
+PFG,Principal Financial Group,0.10%
+PG,Procter & Gamble,0.70%
+PGR,Progressive,0.10%
+PH,Parker Hannifin,0.10%
+PHM,PulteGroup,0.00%
+PKG,Packaging Corp of America,0.00%
+PKI,PerkinElmer,0.00%
+PLD,Prologis,0.10%
+PM,Philip Morris Intl,0.50%
+PNC,PNC Financial Services Gr,0.30%
+PNR,Pentair,0.00%
+PNW,Pinnacle West Capital,0.00%
+PPG,PPG Industries,0.10%
+PPL,PPL,0.10%
+PRGO,Perrigo Co,0.00%
+PRU,Prudential Financial,0.20%
+PSA,Public Storage,0.10%
+PSX,Phillips 66,0.20%
+PVH,PVH,0.00%
+PWR,Quanta Services,0.00%
+PX,Praxair,0.20%
+PXD,Pioneer Natural Resources,0.10%
+PYPL,PayPal Holdings,0.40%
+QCOM,Qualcomm,0.30%
+QRVO,Qorvo,0.00%
+RCL,Royal Caribbean Cruises,0.10%
+RE,Everest Re Group,0.00%
+REG,Regency Centers,0.00%
+REGN,Regeneron Pharmaceuticals,0.10%
+RF,Regions Financial,0.10%
+RHI,Robert Half International,0.00%
+RHT,Red Hat,0.10%
+RJF,Raymond James Financial,0.10%
+RL,Ralph Lauren,0.00%
+RMD,ResMed,0.10%
+ROK,Rockwell Automation,0.10%
+ROP,Roper Technologies,0.10%
+ROST,Ross Stores,0.10%
+RRC,Range Resources,0.00%
+RSG,Republic Services,0.10%
+RTN,Raytheon,0.20%
+SBAC,SBA Communications,0.10%
+SBUX,Starbucks,0.30%
+SCG,SCANA,0.00%
+SCHW,Charles Schwab,0.30%
+SEE,Sealed Air,0.00%
+SHW,Sherwin-Williams,0.10%
+SIVB,SVB Financial,0.10%
+SJM,JM Smucker,0.00%
+SLB,Schlumberger,0.40%
+SLG,SL Green Realty,0.00%
+SNA,Snap-on,0.00%
+SNPS,Synopsys,0.10%
+SO,Southern,0.20%
+SPG,Simon Property Group,0.20%
+SPGI,S&P Global,0.20%
+SRCL,Stericycle,0.00%
+SRE,Sempra Energy,0.10%
+STI,SunTrust Banks,0.10%
+STT,State Street Corporation,0.10%
+STX,Seagate Technology,0.10%
+STZ,Constellation Brands,0.20%
+SWK,Stanley Black & Decker,0.10%
+SWKS,Skyworks Solutions,0.10%
+SYF,Synchrony Financial,0.10%
+SYK,Stryker,0.20%
+SYMC,Symantec,0.10%
+SYY,Sysco,0.10%
+T,AT&T,0.80%
+TAP,Molson Coors Brewing,0.10%
+TDG,TransDigm Group,0.10%
+TEL,TE Connectivity,0.10%
+TGT,Target,0.20%
+TIF,Tiffany,0.10%
+TJX,TJX Companies,0.20%
+TMK,Torchmark,0.00%
+TMO,Thermo Fisher Scientific,0.30%
+TPR,Tapestry,0.10%
+TRIP,TripAdvisor,0.00%
+TROW,T. Rowe Price Group,0.10%
+TRV,Travelers Companies,0.10%
+TSCO,Tractor Supply,0.00%
+TSN,Tyson Foods,0.10%
+TSS,Total System Services,0.10%
+TTWO,Take-Two Interactive,0.10%
+TWTR,Twitter,0.10%
+TWX,Time Warner,0.30%
+TXN,Texas Instruments,0.40%
+TXT,Textron,0.10%
+UA,Under Armour,0.00%
+UAA,Under Armour,0.00%
+UAL,United Continental Holdings,0.10%
+UDR,UDR,0.00%
+UHS,Universal Health Services,0.00%
+ULTA,Ulta Beauty,0.10%
+UNH,UnitedHealth Group,0.90%
+UNM,Unum,0.00%
+UNP,Union Pacific,0.40%
+UPS,United Parcel Service,0.40%
+URI,United Rentals,0.10%
+USB,US Bancorp,0.30%
+UTX,United Technologies,0.40%
+V,Visa,1.20%
+VAR,Varian Medical Systems,0.00%
+VFC,VF,0.10%
+VIAB,Viacom,0.00%
+VLO,Valero Energy,0.20%
+VMC,Vulcan Materials,0.10%
+VNO,Vornado Realty Trust,0.10%
+VRSK,Verisk Analytics,0.10%
+VRSN,VeriSign,0.10%
+VRTX,Vertex Pharmaceuticals,0.20%
+VTR,Ventas,0.10%
+VZ,Verizon Communications,0.80%
+WAT,Waters,0.10%
+WBA,Walgreens Boots Alliance,0.30%
+WDC,Western Digital,0.10%
+WEC,WEC Energy Group,0.10%
+WELL,Welltower,0.10%
+WFC,Wells Fargo,1.00%
+WHR,Whirlpool,0.00%
+WLTW,Willis Towers Watson,0.10%
+WM,Waste Management,0.10%
+WMB,Williams Companies,0.10%
+WMT,Walmart,1.00%
+WRK,WestRock,0.10%
+WU,The Western Union,0.00%
+WY,Weyerhaeuser,0.10%
+WYNN,Wynn Resorts,0.10%
+XEC,Cimarex Energy,0.00%
+XEL,Xcel Energy,0.10%
+XL,XL Group,0.10%
+XLNX,Xilinx,0.10%
+XOM,Exxon Mobil,1.30%
+XRAY,Dentsply Sirona,0.00%
+XRX,Xerox,0.00%
+XYL,Xylem,0.00%
+YUM,Yum Brands,0.10%
+ZBH,Zimmer Biomet Holdings,0.10%
+ZION,Zions Bancorp,0.00%
+ZTS,Zoetis,0.20%
